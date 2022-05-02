@@ -65,4 +65,4 @@ new_quote_btn.addEventListener("click" , getQuote )
 
 // calling getQuote function to run this on loading
 
-getQuote();
+getQuote(); 
